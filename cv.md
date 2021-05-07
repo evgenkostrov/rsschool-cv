@@ -37,3 +37,4 @@ Book| Android Programming. TheBigNerdRanch
 8. - [x] immediate reading
    - [x] mediate talking
    - [ ] english thinking  :smile:
+   - [x] desire to learn
