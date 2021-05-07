@@ -17,13 +17,10 @@
      - ~~Swift~~
 5. 
 ```
-two feachers of kotlin null safety and extention
-class 
-cat1 Seryoga
-eat
-cat2 Sosiska
-random
-fun cat.concatenation
+class FeachersOfKotlin() {
+fun nullSafety 
+fun extentionFunction
+}
 ```
 
 6. [www.evgenkostrov.ru](https://github.com/evgenkostrov )
