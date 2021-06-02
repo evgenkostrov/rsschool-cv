@@ -25,7 +25,7 @@ fun extentionFunction
 
 6. [www.evgenkostrov.ru](https://github.com/evgenkostrov )
 7. 
-8.
+
 
 Youtube---- | RSSchool
 ------------|-------------------------------------------------------------
