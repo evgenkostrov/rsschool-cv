@@ -24,14 +24,16 @@ fun extentionFunction
 ```
 
 6. [www.evgenkostrov.ru](https://github.com/evgenkostrov )
-7.
-Youtube | RSSchool
+7. 
+8.
+
+Youtube---- | RSSchool
 ------------|-------------------------------------------------------------
-Book| Kotlin in Action. Dmitry Jemerov and Svetlana Isakova
-Book| Kotlin Apprentice Second Edition Beginning Programming with Kotlin. RayWenderlich
-Book| Kotlin Programming. TheBigNerdRanch
-Book| Android Apprentice Third Edition Beginning Android Development.RayWenderlich
-Book| Android Programming. TheBigNerdRanch
+Book--------| Kotlin in Action. Dmitry Jemerov and Svetlana Isakova
+Book--------| Kotlin Apprentice Second Edition Beginning Programming with Kotlin. RayWenderlich
+Book--------| Kotlin Programming. TheBigNerdRanch
+Book--------| Android Apprentice Third Edition Beginning Android Development.RayWenderlich
+Book--------| Android Programming. TheBigNerdRanch
 
 
 8. - [x] immediate reading
